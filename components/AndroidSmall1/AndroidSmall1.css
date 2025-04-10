@@ -1,0 +1,23 @@
+.android-small-1 {
+  align-items: flex-start;
+  background-color: #000033;
+  border: 1px none;
+  display: flex;
+  gap: 7px;
+  height: 640px;
+  padding: 78px 76px;
+  width: 360px;
+}
+
+.frame {
+  height: 45px;
+  width: 39px;
+}
+
+.title {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 7px;
+  min-height: 29px;
+}
+

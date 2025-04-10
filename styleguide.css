@@ -1,0 +1,14 @@
+:root { 
+  --mischka: #cfd3dd;
+ 
+  --font-size-m: 24px;
+ 
+  --font-family-montserrat: "Montserrat", Helvetica;
+}
+.montserrat-normal-mischka-24px {
+  color: var(--mischka);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
